@@ -40,3 +40,10 @@ untuk menghitung kalian semua. Sebab, Sang Raja Hutan hendak memberikan kalian s
 berbarislah kalian semua dari tebing sebelah sini sampai ke tebing sebelah sana ya…”
 BERSAMBUNG MUN PURUN ,, HATUR NUHUNNNN
 ```
+
+# cara install 
+```
+cd cangkul
+chmod +x install.sh
+./main
+```
