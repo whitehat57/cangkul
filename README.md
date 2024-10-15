@@ -1,3 +1,7 @@
+
+![aaaa1](https://github.com/user-attachments/assets/80359051-8944-4e53-bd51-50d4cacc3879)
+
+
 # cangkul
 macul terooos pantang mundur
 ```
